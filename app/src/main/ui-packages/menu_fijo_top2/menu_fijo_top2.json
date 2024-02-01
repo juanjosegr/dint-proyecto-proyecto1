@@ -1,0 +1,222 @@
+{
+  "name": "menu_fijo_top2",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:865",
+    "version": "5077394149",
+    "component-id": "a5d9053ad2c9ef7f312c24e513a3c513e626de88"
+  },
+  "default": "MenuFijoTop2",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "CuadradoArriba"
+      },
+      {
+        "type": "image",
+        "id": "bmwLogoTop"
+      },
+      {
+        "type": "text",
+        "id": "BMW 330i Sedan"
+      },
+      {
+        "type": "adin_component",
+        "id": "MenuTop",
+        "key": "menu_top"
+      },
+      {
+        "type": "vector",
+        "id": "Line 3"
+      }
+    ],
+    "modes": {
+      "MenuFijoTop2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "CuadradoArriba",
+              "bmwLogoTop",
+              "BMW 330i Sedan",
+              "MenuTop",
+              "Line 3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "CuadradoArriba",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "123.0"
+              }
+            },
+            "vector-content": "cuadrado_arriba.svg"
+          },
+          {
+            "id": "bmwLogoTop",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-156.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-17.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "89.0"
+              }
+            },
+            "image-content": "bmw_logo_top.png",
+            "scale": "cover"
+          },
+          {
+            "id": "BMW 330i Sedan",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "47.0028076171875"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-22.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "198.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "BMW 330i Sedan",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "font-weight": "500.0",
+                    "text-size": "26.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "4",
+                  "span-length": "10",
+                  "annotated-text-style": {
+                    "text-size": "26.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "MenuTop",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "44.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "378.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            }
+          },
+          {
+            "id": "Line 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "60.494384765625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "line_3.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "MenuFijoTop2",
+      "size": {
+        "width": 430.0,
+        "height": 123.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

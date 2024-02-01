@@ -1,0 +1,76 @@
+{
+  "name": "ir_exterior",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:871",
+    "version": "5069840372",
+    "component-id": "f71344dc8f4e252403022839bb0dcf7869645ca9"
+  },
+  "default": "IrExterior",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "CocheBmw1"
+      }
+    ],
+    "modes": {
+      "IrExterior": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "CocheBmw1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "CocheBmw1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "370.0"
+              }
+            },
+            "image-content": "coche_bmw1.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "IrExterior",
+      "size": {
+        "width": 430.0,
+        "height": 370.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

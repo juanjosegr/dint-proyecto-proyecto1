@@ -1,0 +1,433 @@
+{
+  "name": "parte_arriba",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:867",
+    "version": "5069840372",
+    "component-id": "6ff9ef1860bd88cef6203d4c74d530de6e46d573"
+  },
+  "default": "ParteArriba",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "eQUIPAMIENTO DE SERIE"
+      },
+      {
+        "type": "text",
+        "id": "bENEFÍCIATE DE UN PAQUETE DE EQUIPAMIENTO DE SERIE DE ALTA CALIDAD, Y DISFRUTA DE LA DÍNAMICA DE CONDUCCIÓN TÍPICA DE bmw."
+      },
+      {
+        "type": "image",
+        "id": "CocheBmw1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "text",
+        "id": "330i bERLINA gASOLINA dESDE 45.001,00€"
+      },
+      {
+        "type": "text",
+        "id": "BMW 330i Coupe"
+      },
+      {
+        "type": "text",
+        "id": "MOTORIZACIONES"
+      }
+    ],
+    "modes": {
+      "ParteArriba": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "eQUIPAMIENTO DE SERIE",
+              "bENEFÍCIATE DE UN PAQUETE DE EQUIPAMIENTO DE SERIE DE ALTA CALIDAD, Y DISFRUTA DE LA DÍNAMICA DE CONDUCCIÓN TÍPICA DE bmw.",
+              "CocheBmw1",
+              "Rectangle 1",
+              "330i bERLINA gASOLINA dESDE 45.001,00€",
+              "BMW 330i Coupe",
+              "MOTORIZACIONES"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "eQUIPAMIENTO DE SERIE",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-61.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "189.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "162.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "eQUIPAMIENTO DE SERIE",
+            "italic": "true",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.171875",
+            "case": "upper"
+          },
+          {
+            "id": "bENEFÍCIATE DE UN PAQUETE DE EQUIPAMIENTO DE SERIE DE ALTA CALIDAD, Y DISFRUTA DE LA DÍNAMICA DE CONDUCCIÓN TÍPICA DE bmw.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "2.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "262.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "288.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "bENEFÍCIATE DE UN PAQUETE DE EQUIPAMIENTO DE SERIE DE ALTA CALIDAD, Y DISFRUTA DE LA DÍNAMICA DE CONDUCCIÓN TÍPICA DE bmw.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "case": "upper"
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "116"
+                },
+                {
+                  "span-start": "117",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "case": "upper"
+                  }
+                },
+                {
+                  "span-start": "121",
+                  "span-length": "1"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.171875",
+            "case": "lower"
+          },
+          {
+            "id": "CocheBmw1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-130.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "322.0"
+              }
+            },
+            "image-content": "coche_bmw1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-53.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "105.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "178.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "79.0"
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "330i bERLINA gASOLINA dESDE 45.001,00€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-53.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "105.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "178.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "79.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "   \n               330i bERLINA\n                  gASOLINA\n           dESDE 45.001,00€",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "11"
+                },
+                {
+                  "span-start": "11",
+                  "span-length": "11",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "22",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto",
+                    "case": "lower"
+                  }
+                },
+                {
+                  "span-start": "23",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "25",
+                  "span-length": "7",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto",
+                    "case": "lower"
+                  }
+                },
+                {
+                  "span-start": "32",
+                  "span-length": "19",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "51",
+                  "span-length": "8",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto",
+                    "case": "lower"
+                  }
+                },
+                {
+                  "span-start": "59",
+                  "span-length": "12",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "71",
+                  "span-length": "15",
+                  "annotated-text-style": {
+                    "font-weight": "300.0",
+                    "typeface": "Roboto",
+                    "case": "lower"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.171875",
+            "case": "upper"
+          },
+          {
+            "id": "BMW 330i Coupe",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-73.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "14.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "BMW 330i Coupe",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "font-weight": "500.0",
+                    "text-size": "18.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "4",
+                  "span-length": "10",
+                  "annotated-text-style": {
+                    "text-size": "18.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "18.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "MOTORIZACIONES",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-74.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-263.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "151.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "font-weight": "800.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "MOTORIZACIONES",
+            "italic": "true",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2102272510528564",
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "ParteArriba",
+      "size": {
+        "width": 430.0,
+        "height": 631.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

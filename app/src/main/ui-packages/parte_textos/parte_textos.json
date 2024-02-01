@@ -1,0 +1,1004 @@
+{
+  "name": "parte_textos",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:870",
+    "version": "5069840372",
+    "component-id": "6e5fe9176af9493313c0f6f96f26025e2eae4540"
+  },
+  "default": "ParteTextos",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Llantas 18”"
+      },
+      {
+        "type": "text",
+        "id": "M Sport interior"
+      },
+      {
+        "type": "text",
+        "id": "Luces Full LED"
+      },
+      {
+        "type": "text",
+        "id": "Frenos M sport"
+      },
+      {
+        "type": "text",
+        "id": "Sport transmisión"
+      },
+      {
+        "type": "text",
+        "id": "Parking asistent"
+      },
+      {
+        "type": "text",
+        "id": "Paquete aerodinámico"
+      },
+      {
+        "type": "text",
+        "id": "M Sport suspension"
+      },
+      {
+        "type": "text",
+        "id": "Modelo M Sport"
+      },
+      {
+        "type": "text",
+        "id": "Configuración"
+      },
+      {
+        "type": "text",
+        "id": "automatica"
+      },
+      {
+        "type": "text",
+        "id": "Transmisión:"
+      },
+      {
+        "type": "text",
+        "id": "rwd"
+      },
+      {
+        "type": "text",
+        "id": "Tracción"
+      },
+      {
+        "type": "text",
+        "id": "5,5 s"
+      },
+      {
+        "type": "text",
+        "id": "Aceleración:"
+      },
+      {
+        "type": "text",
+        "id": "6,4/100 km"
+      },
+      {
+        "type": "text",
+        "id": "Consumo:"
+      },
+      {
+        "type": "text",
+        "id": "190 kW (258 PS)"
+      },
+      {
+        "type": "text",
+        "id": "Cv:"
+      },
+      {
+        "type": "text",
+        "id": "gasolina"
+      },
+      {
+        "type": "text",
+        "id": "Combustible:"
+      },
+      {
+        "type": "text",
+        "id": "330i"
+      },
+      {
+        "type": "text",
+        "id": "Motor"
+      }
+    ],
+    "modes": {
+      "ParteTextos": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Llantas 18”",
+              "M Sport interior",
+              "Luces Full LED",
+              "Frenos M sport",
+              "Sport transmisión",
+              "Parking asistent",
+              "Paquete aerodinámico",
+              "M Sport suspension",
+              "Modelo M Sport",
+              "Configuración",
+              "automatica",
+              "Transmisión:",
+              "rwd",
+              "Tracción",
+              "5,5 s",
+              "Aceleración:",
+              "6,4/100 km",
+              "Consumo:",
+              "190 kW (258 PS)",
+              "Cv:",
+              "gasolina",
+              "Combustible:",
+              "330i",
+              "Motor"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Llantas 18”",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "52.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "248.7533197402954"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "79.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.56572151184082"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Llantas 18” ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "M Sport interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-117.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "249.23522520065308"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "105.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.529532432556152"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "M Sport interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Luces Full LED",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "61.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "218.39318418502808"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "97.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.529532432556152"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Luces Full LED",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Frenos M sport",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-119.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "218.87508916854858"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "99.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.493342399597168"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Frenos M sport",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Sport transmisión",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "75.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "188.03304815292358"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "122.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.493342399597168"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Sport transmisión",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Parking asistent",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-114.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "187.06930303573608"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "110.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.493342399597168"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Parking asistent",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Paquete aerodinámico",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "96.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "156.70934629440308"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "168.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.529532432556152"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Paquete aerodinámico",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "M Sport suspension",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-76.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "156.2274408340454"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "188.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.56572151184082"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "M Sport suspension",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Modelo M Sport",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "113.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "184.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Modelo M Sport",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Configuración",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "4.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "68.49833011627197"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "245.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.996660232543945"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Configuración",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "36.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "automatica",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "137.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-68.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "74.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "automatica",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Transmisión:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "52.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-68.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "86.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Transmisión:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "rwd",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-70.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-68.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "rwd",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Tracción",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-139.5999984741211"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-68.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.80000305175781"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tracción:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "5,5 s",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "115.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-107.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "5,5 s",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Aceleración:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "51.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-107.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "85.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Aceleración:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "6,4/100 km",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-44.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-107.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "6,4/100 km",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Consumo:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-137.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-107.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Consumo:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "190 kW (258 PS)",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "105.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-151.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "109.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "190 kW (258 PS)",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Cv:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "19.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-151.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cv:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "gasolina",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-52.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-151.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "59.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "gasolina",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Combustible:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-128.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-151.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Combustible:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.2102272851126534",
+            "typeface": "Inter"
+          },
+          {
+            "id": "330i",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-9.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-205.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "57.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "22.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "330i",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Motor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-12.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-240.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "95.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Motor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "36.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "ParteTextos",
+      "size": {
+        "width": 430.0,
+        "height": 547.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

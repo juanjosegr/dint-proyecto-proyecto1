@@ -1,0 +1,946 @@
+{
+  "name": "total_pestana",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:932",
+    "version": "5069840372",
+    "component-id": "74d5e2d6073043c62ad66c3b7856c0573760ef9a"
+  },
+  "default": "TotalPestana",
+  "documentation": "asda",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "text",
+        "id": "Solicitar Oferta"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "Guardar Configuración"
+      },
+      {
+        "type": "text",
+        "id": "60000€"
+      },
+      {
+        "type": "text",
+        "id": "eltotal"
+      },
+      {
+        "type": "text",
+        "id": "0€"
+      },
+      {
+        "type": "text",
+        "id": "nterior de aluminio"
+      },
+      {
+        "type": "text",
+        "id": "2800€"
+      },
+      {
+        "type": "text",
+        "id": "Interior de cuero BMW"
+      },
+      {
+        "type": "text",
+        "id": "1999€"
+      },
+      {
+        "type": "text",
+        "id": "19\" M Llantas sport"
+      },
+      {
+        "type": "text",
+        "id": "2000€"
+      },
+      {
+        "type": "text",
+        "id": "Pintura metálica \"Gris Mineral”"
+      },
+      {
+        "type": "text",
+        "id": "8200€"
+      },
+      {
+        "type": "text",
+        "id": "Modelo M Sport"
+      },
+      {
+        "type": "text",
+        "id": "45.001€"
+      },
+      {
+        "type": "text",
+        "id": "330i"
+      },
+      {
+        "type": "vector",
+        "id": "Line 2"
+      },
+      {
+        "type": "vector",
+        "id": "Line 1"
+      },
+      {
+        "type": "text",
+        "id": "totaldelprecio"
+      }
+    ],
+    "modes": {
+      "TotalPestana": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 6",
+              "Solicitar Oferta",
+              "Rectangle 7",
+              "Guardar Configuración",
+              "60000€",
+              "eltotal",
+              "0€",
+              "nterior de aluminio",
+              "2800€",
+              "Interior de cuero BMW",
+              "1999€",
+              "19\" M Llantas sport",
+              "2000€",
+              "Pintura metálica \"Gris Mineral”",
+              "8200€",
+              "Modelo M Sport",
+              "45.001€",
+              "330i",
+              "Line 2",
+              "Line 1",
+              "totaldelprecio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "272.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          },
+          {
+            "id": "Solicitar Oferta",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "272.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Solicitar Oferta",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Rectangle 7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "216.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Guardar Configuración",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "216.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Guardar Configuración",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "60000€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "127.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "130.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "60000€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "right",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "eltotal",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-145.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "130.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Total:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "0€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "144.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "36.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "0€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "right",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "nterior de aluminio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-81.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "36.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "182.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Interior de aluminio",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "21"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "2800€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "132.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "41.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2800€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Interior de cuero BMW",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-81.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "182.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Interior de cuero BMW",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "22"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "1999€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "133.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-53.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1999€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "19\" M Llantas sport",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-81.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-53.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "182.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+  19\" M Llantas sport",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "21"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "2000€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "131.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-97.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2000€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Pintura metálica \"Gris Mineral”",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-51.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-97.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "242.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Pintura metálica \"Gris Mineral”",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "32"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "8200€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "133.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-137.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "8200€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "right",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Modelo M Sport",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-104.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-137.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Modelo M Sport",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "2",
+                  "span-length": "14"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "45.001€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "127.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-178.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "45.001€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "right",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "330i",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-149.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-178.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "45.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "330i",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Line 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "100.5000242026822"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "344.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "line_2.svg"
+          },
+          {
+            "id": "Line 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-250.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "line_1.svg"
+          },
+          {
+            "id": "totaldelprecio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-123.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-275.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "81.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Total",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "36.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "TotalPestana",
+      "size": {
+        "width": 430.0,
+        "height": 615.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

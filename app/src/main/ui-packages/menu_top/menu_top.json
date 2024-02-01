@@ -1,0 +1,556 @@
+{
+  "name": "menu_top",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "27:51",
+    "version": "5077394149",
+    "component-id": "4e64750a5b868c2832828ae9734c5184105b969d"
+  },
+  "default": "Property 1=idefecto",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Interior"
+      },
+      {
+        "type": "text",
+        "id": "Exterior"
+      },
+      {
+        "type": "text",
+        "id": "Motor"
+      }
+    ],
+    "modes": {
+      "Property 1=idefecto": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Interior",
+              "Exterior",
+              "Motor"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Exterior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "123.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Exterior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Motor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Motor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          }
+        ]
+      },
+      "Property 1=interior": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Interior",
+              "Exterior",
+              "Motor"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "217.8181818181818",
+              "saturation": "1.0",
+              "value": "0.6470588235294118"
+            },
+            "text-content": "Interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Exterior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "123.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Exterior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Motor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Motor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          }
+        ]
+      },
+      "Property 1=exterior": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Interior",
+              "Exterior",
+              "Motor"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Exterior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "123.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "217.8181818181818",
+              "saturation": "1.0",
+              "value": "0.6470588235294118"
+            },
+            "text-content": "Exterior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Motor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Motor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          }
+        ]
+      },
+      "Property 1=motor": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Interior",
+              "Exterior",
+              "Motor"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Exterior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "123.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "92.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Exterior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Motor",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "6.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "69.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "217.8181818181818",
+              "saturation": "1.0",
+              "value": "0.6470588235294118"
+            },
+            "text-content": "Motor",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=idefecto",
+      "size": {
+        "width": 360.0,
+        "height": 33.0
+      }
+    },
+    {
+      "design": "Property 1=interior",
+      "size": {
+        "width": 360.0,
+        "height": 33.0
+      }
+    },
+    {
+      "design": "Property 1=exterior",
+      "size": {
+        "width": 360.0,
+        "height": 33.0
+      }
+    },
+    {
+      "design": "Property 1=motor",
+      "size": {
+        "width": 360.0,
+        "height": 33.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

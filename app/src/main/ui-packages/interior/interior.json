@@ -1,0 +1,880 @@
+{
+  "name": "interior",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:904",
+    "version": "5069840372",
+    "component-id": "3db9f222ebf2a38335997a53cea72e1fe90e9b42"
+  },
+  "default": "Interior",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "abajo"
+      },
+      {
+        "type": "group",
+        "id": "Medio"
+      },
+      {
+        "type": "group",
+        "id": "ARriba"
+      },
+      {
+        "type": "vector",
+        "id": "Line 2"
+      },
+      {
+        "type": "vector",
+        "id": "Line 1"
+      },
+      {
+        "type": "text",
+        "id": "2800€2"
+      },
+      {
+        "type": "text",
+        "id": "Total:"
+      },
+      {
+        "type": "text",
+        "id": "0€"
+      },
+      {
+        "type": "text",
+        "id": "Interior de aluminio"
+      },
+      {
+        "type": "text",
+        "id": "2800€1"
+      },
+      {
+        "type": "text",
+        "id": "Interior de cuero BMW"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "text",
+        "id": "0€1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "image",
+        "id": "Interior2"
+      },
+      {
+        "type": "image",
+        "id": "Interior1"
+      },
+      {
+        "type": "text",
+        "id": "Color interior"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "text",
+        "id": "2800€"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "image",
+        "id": "tapiceria2"
+      },
+      {
+        "type": "image",
+        "id": "tapcireia1"
+      },
+      {
+        "type": "text",
+        "id": "Tapicería"
+      },
+      {
+        "type": "image",
+        "id": "bmw-serie3-gt-2013-interior-salpicadero 1"
+      }
+    ],
+    "modes": {
+      "Interior": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "abajo",
+              "Medio",
+              "ARriba"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "abajo",
+            "margin": {
+              "left": "20.0",
+              "top": "685.0",
+              "right": "50.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Line 2",
+              "Line 1",
+              "2800€2",
+              "Total:",
+              "0€",
+              "Interior de aluminio",
+              "2800€1",
+              "Interior de cuero BMW"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Medio",
+            "margin": {
+              "left": "34.0",
+              "top": "507.0",
+              "right": "190.0",
+              "bottom": "207.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 8",
+              "0€1",
+              "Rectangle 7",
+              "Interior2",
+              "Interior1",
+              "Color interior"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "ARriba",
+            "margin": {
+              "bottom": "437.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 10",
+              "2800€",
+              "Rectangle 9",
+              "tapiceria2",
+              "tapcireia1",
+              "Tapicería",
+              "bmw-serie3-gt-2013-interior-salpicadero 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "59.500023676348434"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "329.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "line_2.svg"
+          },
+          {
+            "id": "Line 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-100.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "line_1.svg"
+          },
+          {
+            "id": "2800€2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "126.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "91.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "57.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ 2800€",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "6"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Total:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-134.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "91.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Total:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "0€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "145.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "0€\n",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Interior de aluminio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-79.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "5.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Interior de aluminio",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "21"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "2800€1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "137.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-36.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "2800€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Interior de cuero BMW",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-58.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-39.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "212.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "+ Interior de cuero BMW",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "1",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "214.8913043478261",
+                      "saturation": "0.8679245283018868",
+                      "value": "0.8313725490196079"
+                    }
+                  }
+                },
+                {
+                  "span-start": "1",
+                  "span-length": "22"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Rectangle 8",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-55.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "76.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "82.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "0€1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-55.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "76.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "82.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "0€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Rectangle 7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-55.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "82.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "94.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Interior2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-55.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "10.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "81.0"
+              }
+            },
+            "image-content": "interior2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Interior1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "49.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "10.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "81.0"
+              }
+            },
+            "image-content": "interior1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Color interior",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-73.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "206.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Color interior",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "36.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Rectangle 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "8.95834732055664"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "211.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "123.02777862548828"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "2800€",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "8.958328247070312"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "211.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.63888549804688"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "2800€",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Rectangle 9",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "11.944442749023438"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "132.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "126.61111450195312"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "113.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "tapiceria2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "10.75"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "132.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "107.5"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "image-content": "tapiceria2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "tapcireia1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-140.9444580078125"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "132.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "107.5"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "100.0"
+              }
+            },
+            "image-content": "tapcireia1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Tapicería",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-108.09723663330078"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "30.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "173.19444274902344"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "25.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tapicería",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "36.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "bmw-serie3-gt-2013-interior-salpicadero 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-114.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "218.0"
+              }
+            },
+            "image-content": "bmw_serie3_gt_2013_interior_salpicadero_1.jpeg",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Interior",
+      "size": {
+        "width": 430.0,
+        "height": 884.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,374 @@
+{
+  "name": "coches",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "80:51",
+    "version": "5069840372",
+    "component-id": "c316c6cb4f5b8178be81e6052cdfc527dd06a8c3"
+  },
+  "default": "Coches",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "M3 Coupe"
+      },
+      {
+        "type": "image",
+        "id": "bmw-m3-e92-wide-body-m-power-free-png 1"
+      },
+      {
+        "type": "text",
+        "id": "M2 Coupe"
+      },
+      {
+        "type": "image",
+        "id": "3cd22352114a8ceaf75cc440834c52cb1a604f2c 1"
+      },
+      {
+        "type": "text",
+        "id": "M5 Coupe"
+      },
+      {
+        "type": "image",
+        "id": "51456_st0640_116 1"
+      },
+      {
+        "type": "text",
+        "id": "330i Sedan"
+      },
+      {
+        "type": "image",
+        "id": "BMW-335d-e1682968091969 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 15"
+      }
+    ],
+    "modes": {
+      "Coches": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "M3 Coupe",
+              "bmw-m3-e92-wide-body-m-power-free-png 1",
+              "M2 Coupe",
+              "3cd22352114a8ceaf75cc440834c52cb1a604f2c 1",
+              "M5 Coupe",
+              "51456_st0640_116 1",
+              "330i Sedan",
+              "BMW-335d-e1682968091969 1",
+              "Rectangle 15"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "M3 Coupe",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "95.46961212158203"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "178.53844833374023"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "190.93922424316406"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.46154022216797"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "M3 Coupe",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "bmw-m3-e92-wide-body-m-power-free-png 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "101.49723815917969"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "83.30768585205078"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "175.02761840820312"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.07691955566406"
+              }
+            },
+            "image-content": "bmw_m3_e92_wide_body_m_power_free_png_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "M2 Coupe",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-109.4640884399414"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "178.07690048217773"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "167.0718231201172"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.46154022216797"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "M2 Coupe",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "3cd22352114a8ceaf75cc440834c52cb1a604f2c 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-101.50828552246094"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "83.30768585205078"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "182.98342895507812"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.07691955566406"
+              }
+            },
+            "image-content": "3cd22352114a8ceaf75cc440834c52cb1a604f2c_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "M5 Coupe",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "100.45856475830078"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-23.923084259033203"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "190.93922424316406"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.46154022216797"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "M5 Coupe",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "51456_st0640_116 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "98.46961212158203"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-118.69231414794922"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "190.93922424316406"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.07691955566406"
+              }
+            },
+            "image-content": "51456_st0640_116_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "330i Sedan",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-109.4640884399414"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-23.923084259033203"
+              }
+            },
+            "tap-handler": "$TextoCllick",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "167.0718231201172"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.46154022216797"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "330i Sedan",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "BMW-335d-e1682968091969 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-109.4640884399414"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-118.69231414794922"
+              }
+            },
+            "tap-handler": "$fotoClick",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "167.0718231201172"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.07691955566406"
+              }
+            },
+            "image-content": "bmw_335d_e1682968091969_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 15",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-109.46499633789062"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-117.6907730102539"
+              }
+            },
+            "tap-handler": "$bottonCoche1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "167.07000732421875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.0800018310547"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "TextoCllick": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "fotoClick": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "bottonCoche1": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "Coches",
+      "size": {
+        "width": 430.0,
+        "height": 392.4615478515625
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

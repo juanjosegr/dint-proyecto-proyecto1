@@ -1,0 +1,195 @@
+{
+  "name": "group_1",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "81:65",
+    "version": "5069840372",
+    "component-id": "09ce9245ab236fa3c846f5e6b845bde6a4fcbfec"
+  },
+  "default": "Group 1",
+  "documentation": "a",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "rectangulo"
+      },
+      {
+        "type": "text",
+        "id": "texto bm"
+      },
+      {
+        "type": "image",
+        "id": "logobmw"
+      },
+      {
+        "type": "vector",
+        "id": "linea1"
+      }
+    ],
+    "modes": {
+      "Group 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "rectangulo",
+              "texto bm",
+              "logobmw",
+              "linea1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangulo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "123.0"
+              }
+            },
+            "vector-content": "rectangulo.svg"
+          },
+          {
+            "id": "texto bm",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "47.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-22.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "198.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "BMW 330i Sedan",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "font-weight": "500.0",
+                    "text-size": "26.0",
+                    "typeface": "Roboto"
+                  }
+                },
+                {
+                  "span-start": "4",
+                  "span-length": "10",
+                  "annotated-text-style": {
+                    "text-size": "26.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "logobmw",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-140.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-14.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "118.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "78.0"
+              }
+            },
+            "image-content": "logobmw.png",
+            "scale": "cover"
+          },
+          {
+            "id": "linea1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "60.494384765625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.0"
+              }
+            },
+            "vector-content": "linea1.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Group 1",
+      "size": {
+        "width": 430.0,
+        "height": 123.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

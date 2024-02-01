@@ -1,0 +1,156 @@
+{
+  "name": "final",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:933",
+    "version": "5069840372",
+    "component-id": "4a7ab59f5e6ddb70e67d537973746644ea9f08ff"
+  },
+  "default": "Final",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 13"
+      },
+      {
+        "type": "text",
+        "id": "©BMW ES 2024"
+      },
+      {
+        "type": "text",
+        "id": "Aviso Legal Política de Cookies Contacto Política de privacidad"
+      }
+    ],
+    "modes": {
+      "Final": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 13",
+              "©BMW ES 2024",
+              "Aviso Legal Política de Cookies Contacto Política de privacidad"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "184.0"
+              }
+            },
+            "vector-content": "rectangle_13.svg"
+          },
+          {
+            "id": "©BMW ES 2024",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-104.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-78.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "221.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "  \n             ©BMW ES 2024",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Aviso Legal Política de Cookies Contacto Política de privacidad",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-85.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "8.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "231.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "133.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Aviso Legal\n\nPolítica de Cookies\n\nContacto\n\nPolítica de privacidad",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "10.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Final",
+      "size": {
+        "width": 430.0,
+        "height": 184.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,87 @@
+{
+  "name": "ir_interi",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "PW7A7oybCfcGWd0RQti4yi",
+    "node": "64:903",
+    "version": "5069840372",
+    "component-id": "78cd9fef634b5262ce761ceb0c0d7e383604450c"
+  },
+  "default": "irInteri",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "INTERIOR"
+      }
+    ],
+    "modes": {
+      "irInteri": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "INTERIOR"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "INTERIOR",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-123.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-11.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "112.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "INTERIOR",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.171875"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "irInteri",
+      "size": {
+        "width": 430.0,
+        "height": 157.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
